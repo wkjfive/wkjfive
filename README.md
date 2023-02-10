@@ -24,5 +24,5 @@ LibreOJ：[wkjfive](https://loj.ac/u/wkjfive)
 
 CodeForces：[wkjfive](https://codeforces.com/profile/wkjfive)
 
-### 友情赞助
+## 友情赞助
 赞助好朋友[pcy_Adentent](/user/493725)的[Github号](https://github.com/Adentent)！
